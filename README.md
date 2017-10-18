@@ -14,8 +14,8 @@ A detailed description of the calculator can be found in the assignment descipti
 (The followings are for those who want to compile the files themselves)
 2. GNU make
 	https://www.gnu.org/software/make/
-3. g++ compiler
-	via ```sudo apt-get install g++``` on ubuntu based os (kubuntu included).
+3. gcc compiler
+	via ```sudo apt-get install gcc-4.8``` on ubuntu based os (kubuntu included).
 4. nasm compiler
 	via ```sudo apt-get install nasm``` on ubuntu based os (kubuntu included).
 	
