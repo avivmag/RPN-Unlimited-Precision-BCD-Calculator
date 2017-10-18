@@ -10,7 +10,8 @@ A detailed description of the calculator can be found in the assignment descipti
 ### Prerequisites
 
 1. Kubuntu - this program was tested only on kubuntu, but it probably can be ran on any other known nasm and gcc compatible operating systems.
-	https://kubuntu.org/getkubuntu/
+	https://kubuntu.org/getkubuntu/</br>
+(The followings are for those who want to compile the files themselves)
 2. GNU make
 	https://www.gnu.org/software/make/
 3. g++ compiler
