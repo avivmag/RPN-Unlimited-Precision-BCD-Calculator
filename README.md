@@ -24,7 +24,7 @@ Note: this is how I used to build and run the program. There are many other well
 ### Running calculator
 
 1. open terminal and navigate to the program directory
-2. Do this step only if calculator rebuilt is needed: type `make` and press enter.
+2. do this step only if calculator rebuilt is needed: type `make` and press enter.
 3. type `./calc.bin` and press enter.
 4. enjoy :D.
 
